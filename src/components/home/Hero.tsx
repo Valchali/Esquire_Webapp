@@ -14,7 +14,8 @@ const Hero = () => {
       <div 
         className="absolute inset-0 bg-center bg-cover" 
         style={{ 
-          backgroundImage: 'url(https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)',
+          backgroundImage:'url(/hotel-front.jpg)',
+          //  'url(https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)',
           backgroundPosition: 'center',
           zIndex: -1
         }}
