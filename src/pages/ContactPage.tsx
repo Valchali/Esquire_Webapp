@@ -84,8 +84,8 @@ const ContactPage = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-1">Address</h3>
-                  <p className="text-gray-600">123 Hotel Street, City Center</p>
-                  <p className="text-gray-600">Country, Postal Code</p>
+                  <p className="text-gray-600"> Estate, 18/20 Okunola Cres Rd, Fatimo Bintu Solebo St, Ikorodu</p>
+                  <p className="text-gray-600">Lagos, 104101</p>
                 </div>
               </div>
 
@@ -95,8 +95,8 @@ const ContactPage = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-1">Phone</h3>
-                  <p className="text-gray-600">+1 (234) 567-8900 (Main)</p>
-                  <p className="text-gray-600">+1 (234) 567-8901 (Reservations)</p>
+                  <p className="text-gray-600">+ (234) 903 187 0456 (Main)</p>
+                  <p className="text-gray-600">+ (234) 903 187 0456 (Reservations)</p>
                 </div>
               </div>
 
@@ -106,8 +106,8 @@ const ContactPage = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-1">Email</h3>
-                  <p className="text-gray-600">info@Esquirehotel.com</p>
-                  <p className="text-gray-600">reservations@Esquirehotel.com</p>
+                  <p className="text-gray-600">esquireresorts@gmail.com</p>
+                  <p className="text-gray-600">reservations@Esquirehotelresort.com</p>
                 </div>
               </div>
 
