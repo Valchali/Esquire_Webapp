@@ -19,7 +19,7 @@ const RoomDetailPage = () => {
       return;
     }
     
-    document.title = `${room.name} | Cozy Hotel`;
+    document.title = `${room.name} | Esquire Hotel And Resort`;
     setIsLoaded(true);
   }, [room, navigate]);
 
