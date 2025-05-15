@@ -30,7 +30,7 @@ const Hero = () => {
             Experience Luxury & Comfort
           </h1>
           <p className="text-xl text-white mb-8">
-            Welcome to Esquire Hotel, where warm hospitality meets exceptional service in a secure and relaxing environment.
+            Welcome to Esquire Hotel And Resort, where warm hospitality meets exceptional service in a secure and relaxing environment.
           </p>
           <div className="flex flex-wrap gap-4">
             <Link to="/rooms" className="btn btn-primary">

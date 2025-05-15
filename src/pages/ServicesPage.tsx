@@ -35,7 +35,7 @@ const ServicesPage = () => {
       <div className="container-custom py-16">
         <div className="mb-12 max-w-3xl mx-auto text-center">
           <p className="text-lg text-gray-700">
-            At Esquire Hotel, we pride ourselves on delivering exceptional services that cater to all your needs. From comfortable accommodation to fine dining and entertainment, we ensure a memorable stay.
+            At Esquire hotel and resort, we pride ourselves on delivering exceptional services that cater to all your needs. From comfortable accommodation to fine dining and entertainment, we ensure a memorable stay.
           </p>
         </div>
 

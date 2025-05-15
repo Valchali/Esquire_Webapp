@@ -7,7 +7,7 @@ import Testimonials from '../components/home/Testimonials';
 const HomePage = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
-    document.title = 'Cozy Hotel | Premium Hospitality & Lodging';
+    document.title = 'Esquire Hotel And Resort | Premium Hospitality & Lodging';
   }, []);
 
   return (
@@ -22,7 +22,7 @@ const HomePage = () => {
         <div className="container-custom text-center">
           <h2 className="text-3xl md:text-4xl font-bold font-serif mb-6">Ready to Experience Our Hospitality?</h2>
           <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
-            Book your stay now and enjoy our special offers. A comfortable and memorable experience awaits you at Esquire Hotel.
+            Book your stay now and enjoy our special offers. A comfortable and memorable experience awaits you at Esquire hotel and resort .
           </p>
           <a 
             href="/rooms" 

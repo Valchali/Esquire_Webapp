@@ -47,7 +47,7 @@ const Header = () => {
       <div className="container-custom flex items-center justify-between">
         <Link to="/" className="flex items-center">
           <span className={`font-serif text-2xl font-bold ${isScrolled ? 'text-primary-800' : 'text-white'}`}>
-            Esquire Hotel
+            Esquire Hotel And Resort
           </span>
         </Link>
 

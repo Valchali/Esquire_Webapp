@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container-custom">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 py-12">
           <div>
-            <h3 className="text-xl font-serif font-bold text-white mb-4">Esquire Hotel</h3>
+            <h3 className="text-xl font-serif font-bold text-white mb-4">Esquire Hotel And Resort</h3>
             <p className="mb-4">
               Experience unparalleled hospitality, comfort, and convenience at our cozy establishment.
             </p>
@@ -70,22 +70,22 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-2 mt-0.5 text-secondary-400" />
-                <span>123 Hotel Street, City Center, Country</span>
+                <span> Estate, 18/20 Okunola Cres Rd, Fatimo Bintu Solebo St, Lagos</span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-secondary-400" />
-                <span>+1 (234) 567-8900</span>
+                <span>+ (234)903 187 0456</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-secondary-400" />
-                <span>info@Esquirehotel.com</span>
+                <span>esquireresorts@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 py-6 text-center">
-          <p>© {currentYear} Esquire Hotel. All rights reserved.</p>
+          <p>© {currentYear} Esquire Hotel And Resort. All rights reserved.</p>
         </div>
       </div>
     </footer>

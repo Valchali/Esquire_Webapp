@@ -23,7 +23,7 @@ const testimonials: Testimonial[] = [
     id: 2,
     name: "Michael Johnson",
     title: "Family Vacation",
-    content: "We had an amazing family vacation at Esquire Hotel. The family suite was spacious and comfortable, and the kids loved the game console. The sports viewing area was perfect for watching the big game!",
+    content: "We had an amazing family vacation at Esquire hotel and resort. The family suite was spacious and comfortable, and the kids loved the game console. The sports viewing area was perfect for watching the big game!",
     rating: 5,
     image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
@@ -31,7 +31,7 @@ const testimonials: Testimonial[] = [
     id: 3,
     name: "Sophia Rodriguez",
     title: "Weekend Getaway",
-    content: "My partner and I had a wonderful weekend getaway at Esquire Hotel. The cocktail bar had amazing drinks, and the restaurant served some of the best food we've had. We'll definitely be back!",
+    content: "My partner and I had a wonderful weekend getaway at Esquire hotel and resort. The cocktail bar had amazing drinks, and the restaurant served some of the best food we've had. We'll definitely be back!",
     rating: 4,
     image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
@@ -82,7 +82,7 @@ const Testimonials = () => {
             What Our Guests Say
           </h2>
           <p className="text-primary-100">
-            Don't just take our word for it. Here's what our guests have to say about their experience at Cozy Hotel.
+            Don't just take our word for it. Here's what our guests have to say about their experience at Esquire hotel and resort.
           </p>
         </div>
 

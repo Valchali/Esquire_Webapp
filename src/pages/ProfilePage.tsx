@@ -32,7 +32,7 @@ const ProfilePage = () => {
   
   useEffect(() => {
     window.scrollTo(0, 0);
-    document.title = 'My Profile | Cozy Hotel';
+    document.title = 'My Profile | Esquire Hotel And Resort';
     
     // Check if we have booking success information in location state
     const state = location.state as BookingSuccessState | null;
