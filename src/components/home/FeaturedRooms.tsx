@@ -63,7 +63,7 @@ const FeaturedRooms = () => {
                 <h3 className="text-xl font-bold mb-2">{room.name}</h3>
                 <p className="text-gray-600 mb-4 line-clamp-2">{room.description}</p>
                 <div className="flex items-center justify-between">
-                  <div className="text-primary-600 font-bold">${room.price} <span className="text-gray-500 font-normal text-sm">per night</span></div>
+                  <div className="text-primary-600 font-bold">₦{room.price} <span className="text-gray-500 font-normal text-sm">per night</span></div>
                   <Link 
                     to={`/rooms/${room.id}`}
                     className="text-primary-600 font-medium flex items-center hover:text-primary-800 transition-colors duration-300"
