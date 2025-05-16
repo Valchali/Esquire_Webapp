@@ -146,7 +146,7 @@ const BookingPage = () => {
                     </div>
                     <div className="flex items-center">
                       <span className="text-gray-600">Price:</span>
-                      <span className="ml-1 font-medium">${room.price}/night</span>
+                      <span className="ml-1 font-medium">₦{room.price}/night</span>
                     </div>
                   </div>
                 </div>
@@ -262,7 +262,7 @@ const BookingPage = () => {
                     </div>
                     <div className="flex justify-between pt-2 border-t border-gray-200">
                       <span className="font-bold">Total:</span>
-                      <span className="font-bold">${calculateTotalPrice()}</span>
+                      <span className="font-bold">₦{calculateTotalPrice()}</span>
                     </div>
                   </div>
                 </div>

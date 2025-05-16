@@ -182,7 +182,7 @@ const ProfilePage = () => {
                           </div>
                           <div>
                             <span className="text-gray-600">Total Price:</span>
-                            <span className="ml-2 font-medium">${booking.totalPrice}</span>
+                            <span className="ml-2 font-medium">₦{booking.totalPrice}</span>
                           </div>
                           <div>
                             <span className="text-gray-600">Booked on:</span>

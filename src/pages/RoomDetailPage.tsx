@@ -66,7 +66,7 @@ const RoomDetailPage = () => {
                 <p className="text-gray-600 max-w-3xl">{room.description}</p>
               </div>
               <div className="mt-4 md:mt-0 bg-primary-50 p-4 rounded-lg">
-                <div className="text-primary-600 font-bold text-2xl">${room.price}</div>
+                <div className="text-primary-600 font-bold text-2xl">₦{room.price}</div>
                 <div className="text-gray-500">per night</div>
               </div>
             </div>
