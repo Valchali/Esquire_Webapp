@@ -54,8 +54,9 @@ export const services: Service[] = [
     title: "Secure Parking",
     description: "Convenience meets security with our spacious parking facility adjacent to the main building, offering 24/7 surveillance for your vehicle's safety.",
     icon: "Car",
-    image: "https://images.pexels.com/photos/1004205/pexels-photo-1004205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-  },
+    image:  "/parking-space.jpg"},
+  //   image: "https://images.pexels.com/photos/1004205/pexels-photo-1004205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  // },
   {
     id: "6",
     title: "Sports Viewing",
